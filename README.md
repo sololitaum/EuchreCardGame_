@@ -1,7 +1,7 @@
 # Euchre Card Game
 
 ### Developed by:  
-- **Solo**  
+- **Solomiya Pylypiv**  
 - **Joey Brinker**  
 - **Karina Mireles**  
 
